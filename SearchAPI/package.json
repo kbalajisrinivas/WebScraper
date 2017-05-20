@@ -1,0 +1,19 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "simple searchapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "line-reader": "^0.4.0",
+    "mongoose": "*",
+    "node-inspector": "^1.1.1",
+    "nodemon": "^1.11.0"
+  },
+  "author": "Balaji Kumar",
+  "license": "ISC"
+}
